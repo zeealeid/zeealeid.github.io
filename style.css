@@ -1,0 +1,128 @@
+html {
+    background-color: #f2f2f2;
+}
+
+
+.container {
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.container h1{
+    width: 300px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 48px;
+}
+.container p{
+    width: 80%;
+    max-width: 500px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #605E5C;
+}
+
+hr {
+   max-width: 500px;
+    width: 80%;
+   float: left; 
+   color: #605E5C;
+   opacity: 50%;
+}
+
+.footer {
+    float: right;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-family: 'Inter';
+    font-size: 12px;
+    kerning: 2px;
+    color: #605E5C;
+
+}
+
+.footer img {
+    margin-left: 12px;
+}
+
+.mainlink {
+    background-color:white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 4px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #605E5C;
+    text-decoration: none;
+    box-shadow: 0px 1px 1.5px rgba(0, 0, 0, 0.15);
+    border: 0.5px solid #DEDEDE;
+    position: absolute;
+    left: 10.2%;
+    margin-top: 28px;
+}
+
+.mainlink img{
+    position: relative;
+    top: 3px;
+    margin-right: 8px;
+}
+
+.medium {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 4px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #605E5C;
+    text-decoration: none;
+
+    border: 0.5px solid #A6A6A6;
+    position: absolute;
+    left: 10.2%;
+    margin-top: 88px;
+}
+
+.medium img {
+    margin-right: 8px;
+}
+
+.email {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 4px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #605E5C;
+    text-decoration: none;
+
+    border: 0.5px solid #A6A6A6;
+    position: absolute;
+    left: 10.2%;
+    margin-top: 148px;
+}
+
+.email img{
+    position: relative;
+    top: 3px;
+    margin-right: 8px;
+}
